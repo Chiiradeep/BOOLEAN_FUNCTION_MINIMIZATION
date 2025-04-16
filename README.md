@@ -35,7 +35,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 **Program:**
-
+```
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
 Developed by: Chiiradeep R
@@ -60,6 +60,7 @@ RegisterNumber: 212224240028
   assign f2=y1|y2|y3|y4|y5;
   endmodule
   */
+```
   
 **Truth Table**
 ![WhatsApp Image 2025-04-16 at 03 31 01_6ade4320](https://github.com/user-attachments/assets/e84a837f-65e0-4837-ae7f-7e058b5bd6e7)
